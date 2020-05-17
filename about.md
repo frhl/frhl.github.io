@@ -43,20 +43,24 @@ permalink: /about/
 
  * Student programmer in pharmacometric modelling unit.
 
-### Teaching Assistant in Molecular Biology, Department of Bioengineering, DTU
+
+### Teaching Assistant, Technical University of Denmark, Lyngby Denmark
  
- *2018*
-
-
-### Teaching Assistant in Introductory Statistics, Department of Compute, DTU
-
- *2018*
+ * Teaching Assistant in Introductory Statistics at the department of Compute. *2018*
+ * Teaching Assistant in Molecular Biology at the department of Bioengineering. *2018*
 
 ---
+### Miscellanous
 
+ * Vice-president of Society of Biological Engineering. *2017* 
+ * Arranged [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
+
+---
 ## Publications
 
 Lassen et al. 2020, Genoppi: an open-source software for robust and standardized integration of proteomic and genetic data,[biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.04.076034v1) (under review)
+
+---
 
 
 
