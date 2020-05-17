@@ -43,7 +43,7 @@ permalink: /about/
 
 ### Student Programmer in Quantitative Clinical Pharmacology at Novo Nordisk A/S, Copenhagen
 
- * Student programmer in pharmacometric modelling unit.
+ * Student programmer in pharmacometric modelling unit. *August 2016 - September 2019*
 
 
 ### Teaching Assistant, Technical University of Denmark, Lyngby Denmark
