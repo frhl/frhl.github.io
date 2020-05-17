@@ -27,15 +27,19 @@ permalink: /about/
  * Thesis co-supervisor: [Rasmus Vestergaard](https://scholar.google.com/citations?user=AUJj-OoAAAAJ&hl=en)
 
 ---
+<br>
 
 
 ## Experience
 
-### Broad Institute of Harvard and MIT, Cambridge, MA, USA and Massachusetts General Hospital, Department of pediatric Surgery, Boston, MA, USA
+### Broad Institute of Harvard and MIT, Cambridge, MA, USA 
   
   * Research Scholar in next generation quantiative proteomics and genomics of neuropsychiatric disease. *October 2019 - October 2020*
   * Supervisor & manager: [Kasper Lage](https://www.lagelab.org/current-members/)
 
+### Massachusetts General Hospital, Department of pediatric Surgery, Boston, MA, USA
+
+ * Reseracher, secondary affiliation. *October 2019 - October 2020*
 
 ### Student Programmer in Quantitative Clinical Pharmacology at Novo Nordisk A/S, Copenhagen
 
@@ -48,6 +52,7 @@ permalink: /about/
  * Teaching Assistant in Molecular Biology at the department of Bioengineering. *2018*
 
 ---
+<br>
 
 
 ### Miscellanous
@@ -56,6 +61,7 @@ permalink: /about/
  * Arranged [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
 
 ---
+<br>
 
 
 ## Publications
