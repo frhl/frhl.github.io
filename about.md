@@ -27,16 +27,14 @@ permalink: /about/
  * Thesis co-supervisor: [Rasmus Vestergaard](https://scholar.google.com/citations?user=AUJj-OoAAAAJ&hl=en)
 
 ---
+
+
 ## Experience
 
-### Broad Institute of Harvard and MIT, Cambridge, MA
+### Broad Institute of Harvard and MIT, Cambridge, MA, USA and Massachusetts General Hospital, Department of pediatric Surgery, Boston, MA, USA
   
   * Research Scholar in next generation quantiative proteomics and genomics of neuropsychiatric disease. *October 2019 - October 2020*
   * Supervisor & manager: [Kasper Lage](https://www.lagelab.org/current-members/)
-
-### Massachusetts General Hospital, Department of pediatric Surgery,
-
- * Supervisor & manager: [Kasper Lage](https://www.lagelab.org/current-members/)
 
 
 ### Student Programmer in Quantitative Clinical Pharmacology at Novo Nordisk A/S, Copenhagen
@@ -50,21 +48,21 @@ permalink: /about/
  * Teaching Assistant in Molecular Biology at the department of Bioengineering. *2018*
 
 ---
+
+
 ### Miscellanous
 
  * Vice-president of Society of Biological Engineering. *2017* 
  * Arranged [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
 
 ---
+
+
 ## Publications
 
 Lassen et al. 2020, Genoppi: an open-source software for robust and standardized integration of proteomic and genetic data,[biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.04.076034v1) (under review)
 
 ---
-
-
-
-
 
 
 
