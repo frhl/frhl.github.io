@@ -40,11 +40,11 @@ permalink: /about/
 
 ### Massachusetts General Hospital, Department of pediatric Surgery, Boston, MA, USA
 
- * Reseracher, secondary affiliation. *October 2019 - October 2020*
+ * Researcher, secondary affiliation. *October 2019 - October 2020*
 
 ### Student Programmer in Quantitative Clinical Pharmacology at Novo Nordisk A/S, Copenhagen
 
- * Student programmer in pharmacometric modelling unit. *August 2016 - September 2019*
+ * Student programmer in a pharmacometric modelling unit. *August 2016 - September 2019*
 
 
 ### Teaching Assistant, Technical University of Denmark, Lyngby Denmark
@@ -59,7 +59,7 @@ permalink: /about/
 ### Miscellanous
 
  * Vice-president of Society of Biological Engineering. *2017* 
- * Arranger of conference [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
+ * Arranged [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
 
 <br>
 
@@ -68,7 +68,7 @@ permalink: /about/
 
 ## Publications
 
-Lassen et al. 2020, Genoppi: an open-source software for robust and standardized integration of proteomic and genetic data,[biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.04.076034v1) (under review)
+Lassen et al. 2020, Genoppi: an open-source software for robust and standardized integration of proteomic and genetic data, [biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.04.076034v1) (in review)
 
 <br>
 
