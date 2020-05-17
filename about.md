@@ -23,28 +23,25 @@ permalink: /about/
 ### Technical University of Denmark, Lyngby, Denmark
 
  * Bachelor of science in Engineering (B.Sc.) of Biotechnology '19
- * Thesis supervisor [Søren Brunak](https://en.wikipedia.org/wiki/S%C3%B8ren_Brunak)
- * Thesis co-supervisor [Rasmus Vestergaard](https://scholar.google.com/citations?user=AUJj-OoAAAAJ&hl=en)
+ * Thesis supervisor: [Søren Brunak](https://en.wikipedia.org/wiki/S%C3%B8ren_Brunak)
+ * Thesis co-supervisor: [Rasmus Vestergaard](https://scholar.google.com/citations?user=AUJj-OoAAAAJ&hl=en)
 
 ---
 ## Experience
 
 ### Broad Institute of Harvard and MIT, Cambridge, MA
   
-  * Research Scholar in next generation quantiative proteomics and genomics of neuropsychiatric disease. *October 2019 - Octover 2020*
+  * Research Scholar in next generation quantiative proteomics and genomics of neuropsychiatric disease. *October 2019 - October 2020*
+  * Supervisor & manager: [Kasper Lage](https://www.lagelab.org/current-members/)
 
 ### Massachusetts General Hospital, Department of pediatric Surgery,
 
- * Student researcher, 
+ * Supervisor & manager: [Kasper Lage](https://www.lagelab.org/current-members/)
 
 
 ### Student Programmer in Quantitative Clinical Pharmacology at Novo Nordisk A/S, Copenhagen
 
- * Supporting Pharmacometric Modelling Scientists in Global Development.
- * Creating tools for reproducible and transparent data analysis using R, pharmacokinetic/pharmacodynamic modelling using Non-Linear Mixed Effects Modelling (NONMEM) using ‘Perl Speaks NONMEM’ (PsN) and Pirana.
- * Assisting the development of population modelling of drugs pre-clinical, Phase I-III, dose escalation modelling following the procedures of clinical practices, GxP and International Committee of Harmonization
- * Assisting PK/PD model development for Glucagon-like-peptide 1 receptor agonists.
- *2016-2019*
+ * Student programmer in pharmacometric modelling unit.
 
 ### Teaching Assistant in Molecular Biology, Department of Bioengineering, DTU
  
