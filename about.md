@@ -59,7 +59,7 @@ permalink: /about/
 ### Miscellanous
 
  * Vice-president of Society of Biological Engineering. *2017* 
- * Arranged [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
+ * Arranger of conference [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
 
 <br>
 
