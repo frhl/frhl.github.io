@@ -27,6 +27,7 @@ permalink: /about/
  * Thesis co-supervisor: [Rasmus Vestergaard](https://scholar.google.com/citations?user=AUJj-OoAAAAJ&hl=en)
 
 <br>
+
 ---
 
 
@@ -52,6 +53,7 @@ permalink: /about/
  * Teaching Assistant in Molecular Biology at the department of Bioengineering. *2018*
 
 <br>
+
 ---
 
 ### Miscellanous
@@ -60,6 +62,7 @@ permalink: /about/
  * Arranged [Reach and Discover 2016](https://www.facebook.com/events/121735064956041/)
 
 <br>
+
 ---
 
 
@@ -68,4 +71,5 @@ permalink: /about/
 Lassen et al. 2020, Genoppi: an open-source software for robust and standardized integration of proteomic and genetic data,[biorxiv](https://www.biorxiv.org/content/10.1101/2020.05.04.076034v1) (under review)
 
 <br>
+
 ---
