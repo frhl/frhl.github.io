@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 16px/1.4 $helvetica;
+  background: $white;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 5px;
+  font-size: 30px;
   a {
     color: inherit;
   }
@@ -71,7 +71,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
